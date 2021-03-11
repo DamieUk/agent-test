@@ -1,7 +1,7 @@
 {
   "name": "jbbf-automation-agent",
   "productName": "JBBFAgent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JBBF agent for managing and executing platform scripts automatically",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
